@@ -31,6 +31,10 @@ section {
     color: #7f8c8d;
 }
 
+.bg-light .section-title h2 {
+    color: #2c3e50 !important;
+}
+
 /* --- Navbar --- */
 .navbar {
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
