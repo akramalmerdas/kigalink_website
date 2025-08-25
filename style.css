@@ -316,3 +316,47 @@ footer hr {
 .service-card-link:hover {
     color: inherit;
 }
+
+/* --- Testimonials Section --- */
+.testimonial-card {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    height: 100%;
+}
+
+.testimonial-text {
+    font-style: italic;
+    color: #555;
+    margin-bottom: 20px;
+    font-size: 1.05rem;
+}
+
+.testimonial-author {
+    font-weight: 700;
+    color: #005A9C;
+    text-align: right;
+}
+
+/* --- Team Page --- */
+.team-card {
+    border: none;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    transition: transform 0.3s;
+    padding-top: 20px;
+}
+
+.team-card:hover {
+    transform: translateY(-10px);
+}
+
+.team-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: -95px auto 20px;
+    border: 5px solid #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
