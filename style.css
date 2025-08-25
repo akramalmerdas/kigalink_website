@@ -268,3 +268,51 @@ footer hr {
     justify-content: center;
     border: 1px dashed #ccc;
 }
+
+/* --- Service Detail Page --- */
+.service-detail-content p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.sidebar-widget .card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #2c3e50;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #005A9C;
+}
+
+.service-list-sidebar li {
+    padding: 10px 5px;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.3s;
+}
+
+.service-list-sidebar li:last-child {
+    border-bottom: none;
+}
+
+.service-list-sidebar li a {
+    text-decoration: none;
+    color: #34495e;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.service-list-sidebar li:hover {
+    background-color: #f8f9fa;
+}
+
+.service-list-sidebar li a:hover {
+    color: #005A9C;
+}
+
+.service-card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.service-card-link:hover {
+    color: inherit;
+}
