@@ -4,9 +4,9 @@
 services:
   - slug: network-office-setup
     title: "Network & Office Setup"
-    card_summary: "Wi‑Fi, LAN, routers/switches, servers, and CCTV—installed, secured, and maintained for reliable day‑to‑day operations."
+    card_summary: "Wi-Fi, LAN, routers/switches, servers, and CCTV—installed, secured, and maintained for reliable day-to-day operations."
     page_description:
-      - "We design and install secure, reliable networks for offices, SMEs, and NGOs. From Wi‑Fi and LAN setups to routers, switches, and server configuration, we make sure your team is always connected. We also provide CCTV and security camera installations to improve safety and visibility across your workspace."
+      - "We design and install secure, reliable networks for offices, SMEs, and NGOs. From Wi-Fi and LAN setups to routers, switches, and server configuration, we make sure your team is always connected. We also provide CCTV and security camera installations to improve safety and visibility across your workspace."
       - "Our approach focuses on stability, security, and scalability—so your network grows with your business, not against it."
     key_benefits:
       - "Reliable internet and LAN connectivity"
@@ -30,26 +30,99 @@ services:
 
   - slug: it-support-maintenance
     title: "IT Support & Maintenance"
-    card_summary: "On‑call troubleshooting for printers, laptops, desktops, networks, plus preventive maintenance to cut downtime."
+    card_summary: "On-call troubleshooting for printers, laptops, desktops, networks, plus preventive maintenance to cut downtime."
     page_description:
-      - "Every office faces daily IT challenges—printers stop working, laptops slow down, or networks fail unexpectedly. We act as your on‑call IT team, providing quick troubleshooting and regular maintenance so you can focus on running your business."
+      - "Every office faces daily IT challenges—printers stop working, laptops slow down, or networks fail unexpectedly. We act as your on-call IT team, providing quick troubleshooting and regular maintenance so you can focus on running your business."
       - "We document fixes, apply best practices, and schedule routine checkups to keep systems healthy and predictable."
     key_benefits:
       - "Fast troubleshooting for office IT problems"
       - "Printer and device setup and repair"
       - "Laptop and desktop diagnostics"
       - "Preventive maintenance to reduce downtime"
-      - "Cost‑effective support without hiring in‑house staff"
+      - "Cost-effective support without hiring in-house staff"
 
   - slug: custom-websites-mini-systems
-    title: "Custom Websites & Mini‑Systems"
+    title: "Custom Websites & Mini-Systems"
     card_summary: "Affordable websites, Frappe apps, and small custom tools—fast, secure, and tailored to your needs."
     page_description:
-      - "We build affordable websites and small business systems tailored to your goals. Whether it’s a simple company website, a lightweight Frappe app, or a custom mini‑tool to automate a task, our solutions are fast, secure, and easy to maintain."
+      - "We build affordable websites and small business systems tailored to your goals. Whether it’s a simple company website, a lightweight Frappe app, or a custom mini-tool to automate a task, our solutions are fast, secure, and easy to maintain."
       - "We prioritize clean UX, SEO basics, and integration with your existing workflows."
     key_benefits:
       - "Modern, responsive websites"
       - "Custom Frappe apps and lightweight systems"
-      - "Quick delivery of mini‑tools for urgent needs"
-      - "SEO‑ready and user‑friendly design"
+      - "Quick delivery of mini-tools for urgent needs"
+      - "SEO-ready and user-friendly design"
       - "Continuous support and updates"
+
+  - slug: hardware-installation
+    title: "Hardware Installation & Upgrades"
+    card_summary: "Professional setup of office computers, printers, and peripheral devices, with upgrade support."
+    page_description:
+      - "We supply and install essential hardware for offices, from desktops and laptops to printers and scanners. Our team ensures devices are correctly configured, drivers are installed, and everything works seamlessly together."
+      - "We also advise on cost-effective upgrades to extend the life of your equipment."
+    key_benefits:
+      - "Correct installation and configuration of hardware"
+      - "Fewer technical issues thanks to professional setup"
+      - "Advice on cost-effective upgrades"
+      - "Reduced downtime for your team"
+      - "Integrated support with other IT services"
+
+  - slug: business-planning-feasibility
+    title: "Business Planning & Feasibility Studies"
+    card_summary: "Professional business plans and feasibility studies to support funding, expansion, and smarter decisions."
+    page_description:
+      - "We prepare clear and actionable business plans that help you secure funding, launch new ventures, or expand existing ones. Our feasibility studies provide market research, financial analysis, and risk assessment to reduce uncertainty and guide smart decision-making."
+    key_benefits:
+      - "Investor-ready business plans"
+      - "Market and financial insights you can trust"
+      - "Clear execution roadmaps"
+      - "Risk assessment and mitigation"
+      - "Stronger positioning for funding and growth"
+
+  - slug: training-bootcamps
+    title: "Training & Bootcamps"
+    card_summary: "Workshops and bootcamps that equip entrepreneurs and managers with practical business and technology skills."
+    page_description:
+      - "Through structured workshops and training programs, we equip entrepreneurs and managers with the skills they need to lead confidently. Our training blends practical business know-how with technology insights."
+    key_benefits:
+      - "Hands-on learning with real business cases"
+      - "Develop leadership and management skills"
+      - "Gain tools for smarter decision-making"
+      - "Build strong teams and resilient organizations"
+      - "Affordable programs adapted for African entrepreneurs"
+
+  - slug: cloud-hosting-setup
+    title: "Cloud & Hosting Setup"
+    card_summary: "Reliable hosting and cloud storage solutions for collaboration, backups, and business apps."
+    page_description:
+      - "We help businesses move to the cloud by setting up reliable hosting and cloud storage solutions. Whether you need website hosting, shared drives, or collaboration tools, we configure and maintain them for smooth operations."
+    key_benefits:
+      - "Affordable, scalable hosting options"
+      - "Easy cloud file sharing and collaboration"
+      - "Professional setup of Google Drive, OneDrive, Dropbox, etc."
+      - "Increased reliability with offsite storage"
+      - "Ongoing monitoring and support"
+
+  - slug: software-installation-licensing
+    title: "Software Installation & Licensing"
+    card_summary: "Installation and licensing support for Microsoft Office, antivirus, accounting, and productivity tools."
+    page_description:
+      - "We install, configure, and update essential business software — from Microsoft Office and accounting tools to antivirus and productivity apps. We also ensure proper licensing and compliance for your organization."
+    key_benefits:
+      - "Hassle-free software setup and updates"
+      - "Secure and compliant licensing"
+      - "Better productivity with the right tools"
+      - "Reduced downtime from software issues"
+      - "Centralized support for all your apps"
+
+  - slug: office-digitalization
+    title: "Office Digitalization Support"
+    card_summary: "Transform paper-based workflows into efficient, digital-first processes with modern tools."
+    page_description:
+      - "We guide businesses through digitizing their workflows — moving from paper-based processes to digital tools. From simple file scanning and cloud archiving to setting up task/project management apps, we help you work smarter and faster."
+    key_benefits:
+      - "Reduced paper clutter and costs"
+      - "Easy access to records from anywhere"
+      - "More efficient task management"
+      - "Better collaboration within teams"
+      - "Foundation for future digital transformation"
