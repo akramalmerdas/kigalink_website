@@ -1,0 +1,55 @@
+# Place this file in your repo, e.g. /content/services.yaml
+# Jules will read it and update the Services overview and each service page.
+
+services:
+  - slug: network-office-setup
+    title: "Network & Office Setup"
+    card_summary: "Wi‑Fi, LAN, routers/switches, servers, and CCTV—installed, secured, and maintained for reliable day‑to‑day operations."
+    page_description:
+      - "We design and install secure, reliable networks for offices, SMEs, and NGOs. From Wi‑Fi and LAN setups to routers, switches, and server configuration, we make sure your team is always connected. We also provide CCTV and security camera installations to improve safety and visibility across your workspace."
+      - "Our approach focuses on stability, security, and scalability—so your network grows with your business, not against it."
+    key_benefits:
+      - "Reliable internet and LAN connectivity"
+      - "Professional installation of routers, switches, and servers"
+      - "Secure CCTV and surveillance setup"
+      - "Reduced downtime with expert configuration"
+      - "Affordable solutions tailored for small businesses"
+
+  - slug: email-domain-solutions
+    title: "Email & Domain Solutions"
+    card_summary: "Professional domain and business email setup (Google Workspace, Outlook, Zoho) with hosting and ongoing support."
+    page_description:
+      - "A professional digital identity starts with a domain and business email. We register and manage domains, set up email accounts, and configure hosting so your organization looks credible and communicates reliably from day one."
+      - "We support Google Workspace, Microsoft 365/Outlook, and Zoho, and we handle DNS records (MX, SPF, DKIM, DMARC) for deliverability."
+    key_benefits:
+      - "Professional business email for your team"
+      - "Smooth domain registration and management"
+      - "Hosting setup and ongoing support"
+      - "Enhanced credibility with clients and partners"
+      - "Scalable as your business grows"
+
+  - slug: it-support-maintenance
+    title: "IT Support & Maintenance"
+    card_summary: "On‑call troubleshooting for printers, laptops, desktops, networks, plus preventive maintenance to cut downtime."
+    page_description:
+      - "Every office faces daily IT challenges—printers stop working, laptops slow down, or networks fail unexpectedly. We act as your on‑call IT team, providing quick troubleshooting and regular maintenance so you can focus on running your business."
+      - "We document fixes, apply best practices, and schedule routine checkups to keep systems healthy and predictable."
+    key_benefits:
+      - "Fast troubleshooting for office IT problems"
+      - "Printer and device setup and repair"
+      - "Laptop and desktop diagnostics"
+      - "Preventive maintenance to reduce downtime"
+      - "Cost‑effective support without hiring in‑house staff"
+
+  - slug: custom-websites-mini-systems
+    title: "Custom Websites & Mini‑Systems"
+    card_summary: "Affordable websites, Frappe apps, and small custom tools—fast, secure, and tailored to your needs."
+    page_description:
+      - "We build affordable websites and small business systems tailored to your goals. Whether it’s a simple company website, a lightweight Frappe app, or a custom mini‑tool to automate a task, our solutions are fast, secure, and easy to maintain."
+      - "We prioritize clean UX, SEO basics, and integration with your existing workflows."
+    key_benefits:
+      - "Modern, responsive websites"
+      - "Custom Frappe apps and lightweight systems"
+      - "Quick delivery of mini‑tools for urgent needs"
+      - "SEO‑ready and user‑friendly design"
+      - "Continuous support and updates"
